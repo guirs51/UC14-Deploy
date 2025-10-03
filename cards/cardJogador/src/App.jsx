@@ -20,7 +20,7 @@ export default function App() {
       posicao: "IGL",
       time: "Fúria",
       avaliacao: 10,
-      imagen: "https://theclutch.com.br/wp-content/uploads/2021/01/fallen-liquid.jpg",
+      imagem: "https://theclutch.com.br/wp-content/uploads/2021/01/fallen-liquid.jpg",
     },
     {
       id: 2,
@@ -28,7 +28,7 @@ export default function App() {
       posicao: "Atacante",
       time: "Bastard",
       avaliacao: 10,
-      imagen: Kaiser,
+      imagem: Kaiser,
     },
     {
       id: 3,
@@ -36,7 +36,7 @@ export default function App() {
       posicao: "Pivo",
       time: "School",
       avaliacao: 10,
-      imagen: Aomine,
+      imagem: Aomine,
     },
     {
       id: 4,
@@ -44,7 +44,7 @@ export default function App() {
       posicao: "Atacante",
       time: "Vasco da Gama",
       avaliacao: 10,
-      imagen: Gojo,
+      imagem: Gojo,
     },
     {
       id: 5,
@@ -52,7 +52,7 @@ export default function App() {
       posicao: "Oposto",
       time: "Black Jackals",
       avaliacao: 10,
-      imagen: Bokuto,
+      imagem: Bokuto,
     },
   ];
   return (
